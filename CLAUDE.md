@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 仓库结构
 
-- `AI提示词学习笔记.md` — 笔记正文，按序号章节组织，每条笔记包含"使用场景"和"原文"
+- `notes/AI提示词学习笔记.md` — 笔记正文，按序号章节组织，每条笔记包含"使用场景"和"原文"
 - `GitHub同步指南.md` — 写给初学者的 Git/GitHub 同步教程
 - `README.md` — 项目简介
 
